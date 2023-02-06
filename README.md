@@ -1,8 +1,13 @@
-![Python](https://badgen.net/pypi/python/black) ![data analysis](https://badgen.net/badge/subject/data_analysis/blue)
+![Python](https://badgen.net/pypi/python/black) ![data analysis](https://badgen.net/badge/subject/data_analysis/blue) ![Machine Learning](https://badgen.net/badge/subject/Machine%20Learning/orange) ![Classification](https://badgen.net/badge/subject/Classification/green) ![Interpretability](https://badgen.net/badge/subject/Interpretability/yellow) ![Data Transformation](https://badgen.net/badge/subject/Data%20Transformation/purple) ![Data Cleaning](https://badgen.net/badge/subject/Data%20Cleaning/blue) ![Feature Engineering](https://badgen.net/badge/subject/Feature%20Engineering/red) ![Jupyter Notebook](https://badgen.net/badge/subject/Jupyter%20Notebook/blue) ![Presentation](https://badgen.net/badge/subject/Presentation/red)
 
-# [Project 4] Prepare data for a public health agency
+# Loan Scoring Algorithm for "Prêt à dépenser"
 
-This is the code repository for my second project in Data Science about Preparing data for a public health agency, published on December 14, 2022.
+![Alt Text](https://github.com/nasr-edine/Building_Credit_Scoring_Model_using_ML/blob/main/imgs/credit_score.jpeg)
+
+
+Welcome to the repository for the loan scoring algorithm project for the financial institution "Prêt à dépenser". This project focuses on developing a loan scoring algorithm that calculates the probability of loan repayment by a client and classifies loan applications as approved or rejected.
+
+The code has been published on February 6, 2023.
 
 ## Prerequisites
 
@@ -13,13 +18,13 @@ This is the code repository for my second project in Data Science about Preparin
 clone repository locally
 
 ```bash
-git clone https://github.com/nasr-edine/multivariate_analysis_python.git
+git clone https://github.com/nasr-edine/project4_build_a_scoring_model.git
 ```
 
 Navigate to the root directory::
 
 ```bash
-cd multivariate_analysis_python/
+cd project4_build_a_scoring_model/
 ```
 
 [set up a virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment).
@@ -40,7 +45,7 @@ source ./venv/bin/activate
 pip install -r requirements.txt
 ```
 
-You can then launch JupyterLab and use the 1_prep_dataset.ipynb Jupyter notebook to check your setup.
+Launch JupyterLab:
 
 ```bash
 jupyter lab
@@ -48,8 +53,7 @@ jupyter lab
 
 Consult [this resource](https://www.zainrizvi.io/blog/jupyter-notebooks-best-practices-use-virtual-environments/) if you have issues with using your virtual environment in Jupyter.
 
-## About me
+## About the Author
+My name is Nasr-edine Drai ([@nasredine](https://github.com/nasr-edine)) and I am a student in artificial intelligence at [Openclassrooms](https://openclassrooms.com/fr/) in Paris. I have experience in Python, web applications, and APIs in Django. I hold a Bachelor's-level diploma in Python application development from Openclassrooms.
 
-Nasr-edine Drai ([@nasredine](https://github.com/nasr-edine)) I am a student in artificial intelligence and software engineer at [Openclassrooms](https://openclassrooms.com/fr/) in Paris. I have an experience in python, webapp and API in Django. I hold a Bachelor’s-Level diploma of Python application developer from Openclassroom.
-
-In my free time, I enjoy play video game, and learning new languages spoken both among people and computers.
+In my free time, I enjoy playing video games and learning new languages.
