@@ -1,0 +1,12 @@
+jupyterlab
+jupyterlab-git
+matplotlib
+numpy
+pandas
+seaborn
+statsmodels
+plotly
+colorama
+scikit-learn
+missingno
+wordcloud
