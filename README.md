@@ -2,7 +2,7 @@
 
 # Loan Scoring Algorithm for "Prêt à dépenser"
 
-![Alt Text](https://github.com/nasr-edine/Building_Credit_Scoring_Model_using_ML/blob/main/imgs/credit_score.jpeg)
+![Credit Score](https://github.com/nasr-edine/Building_Credit_Scoring_Model_using_ML/blob/main/imgs/credit_score.jpeg)
 
 
 Welcome to the repository for the loan scoring algorithm project for the financial institution "Prêt à dépenser". This project focuses on developing a loan scoring algorithm that calculates the probability of loan repayment by a client and classifies loan applications as approved or rejected.
